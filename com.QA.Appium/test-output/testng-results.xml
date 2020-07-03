@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22183" started-at="2020-07-03T15:40:24 MESZ" finished-at="2020-07-03T15:40:46 MESZ">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22183" started-at="2020-07-03T15:40:24 MESZ" finished-at="2020-07-03T15:40:46 MESZ">
+      <class name="regressionSuite.LoginPageTest">
+        <test-method status="PASS" signature="loginStart()[pri:0, instance:regressionSuite.LoginPageTest@e720b71]" name="loginStart" duration-ms="22152" started-at="2020-07-03T15:40:24 MESZ" finished-at="2020-07-03T15:40:46 MESZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginStart -->
+      </class> <!-- regressionSuite.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
